@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "108793841782",
+    "project_id": "spark-foundation-dab71",
+    "storage_bucket": "spark-foundation-dab71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108793841782:android:ff15a7e451609bfd81f757",
+        "android_client_info": {
+          "package_name": "com.example.social_media_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108793841782-7lok991ram8737irv1bb9f4r774ebpul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_media_login",
+            "certificate_hash": "3f2d53b17546549edb350409b3e65a68c4ca9b35"
+          }
+        },
+        {
+          "client_id": "108793841782-kr2puivvekrvesfoenekrlfmmcndetkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZAS6Yx5Os5lZJGiSiug0AgyS6uM9cy04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108793841782-kr2puivvekrvesfoenekrlfmmcndetkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
